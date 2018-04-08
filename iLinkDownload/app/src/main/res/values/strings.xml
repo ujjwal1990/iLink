@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">iLinkDownload</string>
+    <string name="download">Download</string>
+    <string name="no1">Enter first number</string>
+    <string name="no2">Enter second number</string>
+    <string name="sum">Add numbers</string>
+</resources>
